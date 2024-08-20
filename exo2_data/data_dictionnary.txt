@@ -1,0 +1,36 @@
+genome_scores:
+Pertinence des tags associés aux films
+movieId
+tagId
+Relevance
+
+genome_tags:
+Description des tags
+tagId
+tag
+
+link
+Lien vers d'autres sources
+movieId
+imdbId
+tmdbId
+
+movie
+Informations sur les films
+movieId
+title
+genres
+
+rating
+Évaluation par les utilisateurs
+userId
+movieId
+rating
+timestamp
+
+tag
+Labels appliqués par les utilisateurs
+userId
+movieId
+Tag
+timestamp
